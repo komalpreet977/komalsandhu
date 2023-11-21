@@ -21,3 +21,11 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
     color: pink;
     background-color: green;
 }
+.main{
+    background: url('portfolio.png') no-repeat;
+    background-color: grey;
+    background-position: right;
+    height: 610px;
+    width: 1490px;
+    background: cover;
+}
