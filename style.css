@@ -1,0 +1,23 @@
+body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav{
+    display: flex;
+    align-items: centre;
+}
+.navbar-nav li{
+    list-style: none;
+    margin-right:15px;
+    display: inline;
+}
+.navbar-nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+.navbar-nav a:hover{
+    color: pink;
+    background-color: green;
+}
