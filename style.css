@@ -25,7 +25,20 @@ body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
     background: url('portfolio.png') no-repeat;
     background-color: grey;
     background-position: right;
-    height: 610px;
-    width: 1490px;
+    height: 700px;
+    width: 1475px;
     background: cover;
+    
+}
+.main h3{
+    font-size: 4.5rem;
+    font-weight: 700;
+}
+.My birthplace{
+    float: right;
+    margin-bottom: 100px;
+    width: 1457px;
+    height: 1500px;
+    margin-left: 1200px;
+    background-color: grey;
 }
